@@ -1,0 +1,8 @@
+you need graphics.h 
+and a C++ compiler (MinGW or anything like that)
+
+I used Visual Studio Code, but I think it will work with another one.
+
+I was really stressed when setting up graphics.h, but it is possible.
+
+good luck! :>
