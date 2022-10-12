@@ -11,6 +11,8 @@ the collision just checks if the ball's coordinates are lower than the wall of t
 a graphics.h project.
 
 I made this a bit of time ago,
-also I think it's kinda bad if you are new to C++ and have to deal with large projects like other C++ physics systems.
+also I think it's kinda bad if you are new to C++ and have to deal with large projects like other C++ "simple" physics systems
+with 10 files and 400 lines of code.
 
 only for educational purposes, it will hopefully give you a simple understanding.
+also this is very un-clean code.
